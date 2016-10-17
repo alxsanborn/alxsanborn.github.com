@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Code. Coder. Codest.]]></title>
-  <link href="http://alxsanborn.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Self, | Code. Coder. Codest.]]></title>
+  <link href="http://alxsanborn.github.io/blog/categories/self/atom.xml" rel="self"/>
   <link href="http://alxsanborn.github.io/"/>
   <updated>2016-10-16T20:12:37-04:00</updated>
   <id>http://alxsanborn.github.io/</id>
