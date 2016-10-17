@@ -28,6 +28,8 @@ Line 19 calls the view_dog method on the instance of fido and returns it. This i
 
 Looking at line 9, we can see that self was added to the method. This is how we transform an instance method to a class method. It is necessary to do this because we are describing information about the entire class (the class instances of each dog).
 
-If we try to return all instances of Dog using an instance method, we get the following error message: Screen Shot 2016-08-02 at 11.06.50 PM
+If we try to return all instances of Dog using an instance method, we get the following error message:
+
+
 
 "fido", as an instance of of the Dog class can call on an instance method (as in example 2 of self above), but Dog, as a class, must be paired with a class method (self.method_name). When we want to ask the class for comprehensive information about it, we must call on it as a class, rather than as an instance.
